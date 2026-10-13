@@ -118,7 +118,7 @@
                             <TextBlock
                                 FontSize="14"
                                 FontWeight="SemiBold"
-                                Text=""
+                                Text="{x:Bind Rue, Mode=OneWay}"
                                 TextWrapping="Wrap" />
                             <TextBlock
                                 FontSize="14"
